@@ -1,0 +1,12 @@
+name             'application_solr'
+maintainer       ''
+maintainer_email ''
+license          ''
+description      'Installs/Configures application_solr'
+long_description 'Installs/Configures application_solr'
+version          '0.1.0'
+
+depends 'application'
+depends 'application_java'
+depends 'apt'
+depends 'ark'
